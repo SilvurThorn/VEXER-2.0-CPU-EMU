@@ -1,5 +1,9 @@
+This repository was originally archived by SilvurThorn on Oct 6, 2018.
 ## THIS PROJECT HAS BEEN IMPROVED:
-https://github.com/BILLPC2684/TGR-PRTO-C
+https://github.com/SilvurThorn/TGR-PRTO-C
 
-# VEXER-2.0-CPU-EMU
-The VEXER 2.0 (Minecraft)CPU Emulator (Dev)
+# About VEXER 2.0
+The project is a emulator of the VEXER 2.0, which is a CPU designed in Minecraft
+The purpose of this project was to quickly create, test, and run programs before building the ROM in game
+
+
